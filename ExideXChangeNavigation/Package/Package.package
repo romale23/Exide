@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="32273e37-75ba-4951-ac40-f5fa815e524b" solutionId="32273e37-75ba-4951-ac40-f5fa815e524b" resetWebServer="false" sharePointProductVersion="15.0" name="ExideXChangeNavigation" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="da21259b-344c-4064-a5a2-3b2e2e8463ea" />
+  </features>
+</package>
